@@ -1,14 +1,8 @@
 {
-    "name": "laravel/dusk",
+    "name": "crishellco/dusk",
     "description": "Laravel Dusk provides simple end-to-end testing and browser automation.",
     "keywords": ["laravel", "testing", "webdriver"],
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Taylor Otwell",
-            "email": "taylor@laravel.com"
-        }
-    ],
     "require": {
         "php": ">=7.1.0",
         "facebook/webdriver": "~1.3",
